@@ -1,13 +1,13 @@
-## Olá! Bem vinda e Bem vindo ao meu perfil 
+## Olá! Bem vinda e Bem vindo ao meu perfil 🎏
 
-🎓Cursando Ciência da Computação na UNIFESO (3/8)
-💻Futuro desenvolvedor fullstack 
-📖Atualmente estou estudando front-end mas tenho certa noção de back-end utilizando python 
+🎓Cursando Ciência da Computação na UNIFESO (3/8) <br>
+💻Futuro desenvolvedor fullstack <br>
+📖Atualmente estou estudando front-end mas tenho certa noção de back-end utilizando python <br>
 
-![Lucas Lafin GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafin&theme=great-gatsby&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafin&layout=donut&theme=great-gatsby)](https://www.linkedin.com/in/lucas-lafin-81545532b/github-readme-stats)
-
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafin&layout=donut&theme=great-gatsby" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucaslafin&show_icons=true&theme=great-gatsby" alt="GitHub Stats" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
