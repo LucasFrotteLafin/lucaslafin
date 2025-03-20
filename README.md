@@ -4,6 +4,11 @@
 💻Futuro desenvolvedor fullstack 
 📖Atualmente estou estudando front-end mas tenho certa noção de back-end utilizando python 
 
+![Lucas Lafin GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafin&theme=great-gatsby&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafin&layout=donut&theme=great-gatsby)](https://www.linkedin.com/in/lucas-lafin-81545532b/github-readme-stats)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
