@@ -2,7 +2,7 @@
 
 🎓Cursando Ciência da Computação na UNIFESO (3/8) <br>
 💻Futuro desenvolvedor fullstack <br>
-📖Atualmente estou estudando front-end mas tenho certa noção de back-end utilizando python <br>
+📖Atualmente estou estudando back-end em C# mas tenho noção em python <br>
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafin&layout=donut&theme=great-gatsby" alt="Top Langs" />
