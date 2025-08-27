@@ -4,8 +4,8 @@
 💻Futuro desenvolvedor fullstack <br>
 📖C# - JAVASCRIPT - CSS - HTML - PYTHON
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas_frotte_lafin&layout=donut&theme=great-gatsby" alt="Top Langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=lucas_frotte_lafin&show_icons=true&theme=great-gatsby" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas Frotte Lafin&layout=donut&theme=great-gatsby" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lucas Frotte Lafin&show_icons=true&theme=great-gatsby" alt="GitHub Stats" />
 </div>
 
 <div style="display: inline_block"><br>
