@@ -1,6 +1,6 @@
 ## Olá! Bem vinda e Bem vindo ao meu perfil 🎏
 
-🎓Cursando Ciência da Computação na UNIFESO (4/8) <br>
+🎓Cursando Ciência da Computação na UNIFESO (5/8) <br>
 💻Futuro desenvolvedor fullstack <br>
 📖C# - JAVASCRIPT - CSS - HTML - PYTHON
 <div style="display: flex; justify-content: space-around;">
